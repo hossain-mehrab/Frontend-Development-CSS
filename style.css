@@ -38,8 +38,16 @@
 /* Child combinator */
 
 #out>.in{
-    color: cadetblue;
+    color: rgb(255, 0, 0);
 }
 
 /* Pseudo selector */
+p:hover{
+    color: rgba(255, 0, 0, 0.5);
+}
+
+h6{
+    color: #ff0000;
+}
+
 
