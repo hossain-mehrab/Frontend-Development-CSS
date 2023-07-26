@@ -1,6 +1,8 @@
 /* CSS (Inline, Internal, External)tag, id(#), and class(.), universal selector(*) */
 
-p{
+
+
+/* p{
     color: darkorange;
 }
 
@@ -10,4 +12,21 @@ p{
 
 .color{
     color: darkgreen;
+} */
+
+
+/* Universal selector(*) */
+
+/* *{
+    color: darkgoldenrod;
+} */
+
+
+/* Group selector h1, p*/
+
+h1,p{
+    color: darkred;
 }
+
+
+/* Decendent selector h1, p*/
