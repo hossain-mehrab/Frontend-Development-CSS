@@ -1,0 +1,13 @@
+/* CSS (Inline, Internal, External)tag, id(#), and class(.), universal selector(*) */
+
+p{
+    color: darkorange;
+}
+
+#uni{
+    color: aqua;
+}
+
+.color{
+    color: darkgreen;
+}
