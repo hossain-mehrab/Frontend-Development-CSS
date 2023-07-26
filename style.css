@@ -24,9 +24,15 @@
 
 /* Group selector h1, p*/
 
-h1,p{
+/* h1,p{
     color: darkred;
+} */
+
+
+/* Decendent combinator  */
+#out .in{
+    color: cadetblue;
 }
 
+/* Child combinator */
 
-/* Decendent selector h1, p*/
