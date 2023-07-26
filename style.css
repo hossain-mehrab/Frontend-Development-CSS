@@ -30,9 +30,16 @@
 
 
 /* Decendent combinator  */
-#out .in{
+
+/* #out .in{
+    color: cadetblue;
+} */
+
+/* Child combinator */
+
+#out>.in{
     color: cadetblue;
 }
 
-/* Child combinator */
+/* Pseudo selector */
 
