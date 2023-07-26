@@ -37,17 +37,27 @@
 
 /* Child combinator */
 
-#out>.in{
+/* #out>.in{
     color: rgb(255, 0, 0);
-}
+} */
 
 /* Pseudo selector */
-p:hover{
+/* p:hover{
     color: rgba(255, 0, 0, 0.5);
 }
 
 h6{
     color: #ff0000;
+} */
+
+
+/* CSS Background */
+
+html{
+    background: url(https://img.freepik.com/premium-photo/operating-room-surgeon-ai-generator-art-image_848845-124.jpg?w=2000);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-
-
+div{
+    color: aliceblue;
+}
